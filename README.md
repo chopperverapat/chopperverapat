@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**chopperverapat/chopperverapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chopper, a software enthusiast on a coding adventure! 🚀
 
-Here are some ideas to get you started:
+🎓 Electrical Engineering grad turned coding maestro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently obsessed with mastering Golang and Fullstack magic.
+
+💬 Got any cool coding ideas or just want to chat? I'm all ears! Drop me a message. 📫
+
+Nice to virtually meet you, and thanks for swinging by my profile! 🙌
+
+Keep coding, keep moving! 🤖🕹️

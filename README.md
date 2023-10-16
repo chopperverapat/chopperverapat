@@ -11,5 +11,3 @@ I'm Chopper, a software enthusiast on a coding adventure! 🚀
 Nice to virtually meet you, and thanks for swinging by my profile! 🙌
 
 Keep coding, keep moving! 
-
-![Rocket Animation](https://i.gifer.com/3PnF.gif)
